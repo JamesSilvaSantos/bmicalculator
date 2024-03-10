@@ -1,4 +1,4 @@
-import java.util.Scanner;
+eimport java.util.Scanner;
 
 public class bmicalculator{
 
@@ -56,11 +56,11 @@ public class bmicalculator{
 		System.out.println("-------------------------------------------");
 
         System.out.println("====================");
-        System.out.println(" fffff n    n ddd   ");
-        System.out.println(" f     n n  n d  d  ");
-        System.out.println(" fff   n  n n d   d ");
-        System.out.println(" f     n   nn d  d  ");
-        System.out.println(" fffff n    n ddd   ");
+        System.out.println(" eeeee n    n ddd   ");
+        System.out.println(" e     n n  n d  d  ");
+        System.out.println(" eee   n  n n d   d ");
+        System.out.println(" e     n   nn d  d  ");
+        System.out.println(" eeeee n    n ddd   ");
         System.out.println("====================");
 	}
 }
