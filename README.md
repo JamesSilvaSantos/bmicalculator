@@ -1,1 +1,3 @@
-Use the terminal to run the .jar file
+use the command in the terminal to run:
+
+java -jar bmicalculator.jar
